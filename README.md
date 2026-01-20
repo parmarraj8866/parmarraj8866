@@ -3,6 +3,8 @@
 🚀 **Full Stack Developer (MERN Stack)**  
 📍 Ahmedabad, Gujarat, India  
 
+🌐 **Portfolio:** [Visit My Portfolio](https://rajportfolio8866.netlify.app)
+
 I build modern, responsive, and scalable web applications using the latest frontend and backend technologies.
 
 ---
