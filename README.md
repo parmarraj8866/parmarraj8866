@@ -1,61 +1,99 @@
-# 👋 Hi, I'm YOUR_NAME
+# 👋 Hi, I'm **Parmar Raj Arvindbhai**
 
-🚀 Full Stack Developer | MERN Stack | Passionate about building scalable web applications
+🚀 **Full Stack Developer (MERN Stack)**  
+📍 Ahmedabad, Gujarat, India  
+
+I build modern, responsive, and scalable web applications using the latest frontend and backend technologies.
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I am a **Full Stack Developer** who loves building complete web applications — from clean, responsive UI to secure and scalable backend systems.
+I am a passionate **Full Stack Developer** currently learning and building real-world projects with the **MERN stack**.  
+I enjoy converting ideas into functional web applications with clean UI and solid backend logic.
 
-- 💻 Strong in Frontend & Backend development
-- ⚙️ Experience with real-world, production-level projects
-- 🧠 Focused on clean code, performance & best practices
+- 💻 Frontend & Backend Development
+- ⚙️ Real-world project experience
+- 🧠 Focus on clean code & performance
 - 🌱 Always learning new technologies
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 Education
 
-### 🎨 Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js / Next.js
-- Tailwind CSS / Bootstrap
+- **Full Stack Development**  
+  *Red & White Multimedia Education* (2024 – 2026)  
+  Learning and building projects with **HTML, CSS, JavaScript, React, Node.js, MongoDB**
 
-### 🧠 Backend
-- Node.js
-- Express.js
-- RESTful APIs
-- JWT Authentication
-
-### 🗄️ Database
-- MongoDB
-- MySQL / PostgreSQL
-
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- Postman
-- Docker (Basics)
-- VS Code
+- **Bachelor of Commerce (B.Com)**  
+  *RC College* (2023 – 2027)  
+  Focused on accounting, finance, and business studies
 
 ---
 
-## 📂 Projects
+## 🛠️ Skills & Technologies
 
-### 🔹 Full Stack Authentication App
-- 📝 Login / Signup, JWT Auth, Role-based access
-- 🛠 Tech: React, Node.js, Express, MongoDB
-- 🔗 Repo: https://github.com/YOUR_USERNAME/project-name
+### 🌐 Frontend
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React.js  
+- Bootstrap  
+- jQuery  
 
-### 🔹 E-Commerce Web Application
-- 📝 Products, Cart, Orders, Admin Panel
-- 🛠 Tech: React, Node.js, MongoDB
-- 🔗 Repo: https://github.com/YOUR_USERNAME/project-name
+### 🧠 Backend
+- Node.js  
+- Express.js  
 
-### 🔹 Portfolio Website
-- 📝 Personal portfolio to showcase projects & skills
-- 🛠 Tech: Next.js, Tailwind CSS
-- 🔗 Repo: https://github.com/YOUR_USERNAME/project-name
+### 🗄️ Database
+- MongoDB  
+- Mongoose  
+
+### ⚙️ Tools
+- Git  
+- GitHub  
+
+---
+
+## 🚀 Projects
+
+### ☕ Coffee Website
+A modern and responsive coffee shop website with smooth animations and attractive UI.  
+**Tech:** HTML, CSS, JavaScript  
+🔗 Live: https://raj-coffee-website.netlify.app  
+📂 Code: https://github.com/parmarraj8866/Coffee.Website.git  
+
+---
+
+### 👕 Clothes E-Commerce Website (MERN)
+A full-stack clothes e-commerce platform with authentication, product management, cart, and order system.  
+**Tech:** MongoDB, Express, React, Node.js  
+🔗 Live: https://raj-webclothes-8866.netlify.app  
+📂 Code: https://github.com/parmarraj8866/MERN-Stack-Clothes-Website.git  
+
+---
+
+### ❌⭕ Tic Tac Toe Game
+A clean and interactive Tic Tac Toe game with smooth gameplay and responsive design.  
+**Tech:** JavaScript  
+🔗 Live: https://raj-tic-tac-toe.netlify.app  
+📂 Code: https://github.com/parmarraj8866/Tic_Tac_Toe-Game.git  
+
+---
+
+### 🔌 Electro Mart Website
+An electronics e-commerce website with dynamic product listing and responsive UI.  
+**Tech:** HTML, CSS, Bootstrap, JavaScript, React, JSON Server  
+🔗 Live: https://electromart8866.netlify.app  
+📂 Code: https://github.com/parmarraj8866/ElectroMart.git  
+
+---
+
+### 🍔 Food Order Website
+A modern food ordering website with dynamic menu and efficient state management.  
+**Tech:** React, Redux Toolkit  
+🔗 Live: https://raj-food-redux-toolkit.netlify.app  
+📂 Code: https://github.com/parmarraj8866/Redux-Builder-React-.git  
 
 ---
 
@@ -67,13 +105,14 @@ I am a **Full Stack Developer** who loves building complete web applications —
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Contact Me
 
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 📧 Email: your@email.com
+- 📧 Email: **rajparmar112005@gmail.com**
+- 📱 Mobile: **+91 8866856418**
+- 📍 Location: **Ahmedabad, Gujarat**
 
 ---
 
-⭐ If you like my work, don’t forget to **star** my repositories!
+⭐ *If you like my work, don’t forget to star my repositories!*  
 
-> “First, solve the problem. Then, write the code.” 🚀
+> _“Learning by building real projects.”_ 🚀
