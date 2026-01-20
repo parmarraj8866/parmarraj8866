@@ -94,7 +94,7 @@ An electronics e-commerce website with dynamic product listing and responsive UI
 ### 🛠️ Product Management Admin Panel (MERN)
 A modern **MERN Stack Admin Panel** built to manage **Categories, Sub-Categories, and Products** from a centralized dashboard with authentication and sidebar navigation.  
 **Tech:** MongoDB, Express, React, Node.js  
-🔗 Live: https://raj-food-redux-toolkit.netlify.app   
+🔗 Live: no link  
 📂 Code: https://github.com/parmarraj8866/MERN-Stack--Product-Management-Admin-Panel
 
 ---
